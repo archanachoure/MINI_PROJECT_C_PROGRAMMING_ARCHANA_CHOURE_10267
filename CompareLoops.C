@@ -1,17 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    // NAME - ARCHANA CHOURE 
-    //  ERP - 10267 
-//      Loop Optimization Demo
-// ----------------------
-// For Loop Iterations   : 10
-// While Loop Iterations : 10
+    
     int limit = 10;
     int forCount = 0;
     int whileCount = 0;
     int i;   
-    
+
     for (i = 1; i <= limit; i++) {
         forCount++;
     }
@@ -29,3 +24,9 @@ int main() {
 
     return 0;
 }
+// NAME - ARCHANA CHOURE 
+//  ERP - 10267 
+//      Loop Optimization Demo
+// ----------------------
+// For Loop Iterations   : 10
+// While Loop Iterations : 10
